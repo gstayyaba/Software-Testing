@@ -4,8 +4,8 @@ Note: Due to some reasons github is not letting me upload pdf so I have shared t
 ## Blackbox_Whitebox Testing
 ### Blackbox Testing
 It was done on the shopizer app. The source code and documentation can be viewed in the below links
-https://shopizer-ecommerce.github.io/documentation/#/starting 
-https://github.com/shopizer-ecommerce/shopizer 
+https://shopizer-ecommerce.github.io/documentation/#/starting  
+https://github.com/shopizer-ecommerce/shopizer    
 Pairwise Testing using Orthogonal Arrays
 
 ### Whitebox Testing
