@@ -3,7 +3,10 @@ I did the whitebox testing, blackbox testing and automated testing using Katalon
 Note: Due to some reasons github is not letting me upload pdf so I have shared the link of the documents
 ## Blackbox_Whitebox Testing
 ### Blackbox Testing
-It was done on the shopizer app
+It was done on the shopizer app. The source code and documentation can be viewed in the below links
+https://shopizer-ecommerce.github.io/documentation/#/starting
+https://github.com/shopizer-ecommerce/shopizer
+Pairwise Testing using Orthogonal Arrays
 
 ### Whitebox Testing
 Functions wer given by the professoe to do white box testing on it.
