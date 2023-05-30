@@ -21,7 +21,7 @@ Functions wer given by the professoe to do white box testing on it.
 * Boundary Coverage
 * Condition Coverage with Short Circuit Evaluation
 * D-U Pair Coverage
-* Basis Path Coverage
+* Basis Path Coverage  
 https://drive.google.com/file/d/1MalOlTiwdyvleTOBc64UAtsXNHoF29LJ/view?usp=sharing
 ### Automated Tessting
 https://drive.google.com/file/d/16y8lsjFLVaI4j01OQdjPowFMVEsPavOy/view?usp=sharing
